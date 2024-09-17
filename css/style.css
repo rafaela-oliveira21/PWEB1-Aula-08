@@ -1,0 +1,29 @@
+.primeiro{
+    background-color: rgb(149, 149, 233);
+}
+
+.segundo{
+    background-color: beige;
+}
+
+.terceiro{
+    background-color: rgb(250, 109, 109);
+}
+
+.exemplo{
+    list-style-type: none;
+}
+
+.bloco{
+    width: 300px;
+    height: 120px;
+    /*
+    display: inline;
+    */
+    display: inline-block;
+}
+
+.block:hover{
+    background-color: blueviolet;
+    color: blue;
+}
